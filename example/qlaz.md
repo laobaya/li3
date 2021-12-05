@@ -27,3 +27,23 @@
                                                                                  
 ## 三、安装好docker后我们开始安装青龙面板
 
+* 拉取青龙面板镜像，把命令输入到shh回车等待完成
+
+      docker pull whyour/qinglong:latest
+      
+![](https://github.com/z115870/li3/blob/main/img/7.png)      
+      
+* 镜像拉取成功后启动容器
+   
+      docker run -dit \
+         -v $PWD/ql/config:/ql/config \
+         -v $PWD/ql/log:/ql/log \
+         -v $PWD/ql/db:/ql/db \
+         -v $PWD/ql/scripts:/ql/scripts \
+         -p 5700:5700 \
+         --name qinglong \
+         --hostname qinglong \
+         --restart always \
+         whyour/qinglong:latest     
+         
+![](https://github.com/z115870/li3/blob/main/img/8.png)         
