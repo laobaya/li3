@@ -9,6 +9,11 @@
 
 * 打开FinalShell：
 
+![](https://github.com/z115870/li3/blob/main/img/1.png)
+![](https://github.com/z115870/li3/blob/main/img/2.png)
+![](https://github.com/z115870/li3/blob/main/img/3.png)
+![](https://github.com/z115870/li3/blob/main/img/4.png)
+
 ## 三、安装docker
 
 * 可以按照菜鸟教程安装：[点击跳转](https://www.runoob.com/docker/centos-docker-install.html)<br>
