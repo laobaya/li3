@@ -1,1 +1,1 @@
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
+##1、安装青龙面板
