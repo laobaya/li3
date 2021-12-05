@@ -2,3 +2,5 @@
 * [青龙安装教程](/example/qlaz.md)
 * [青龙拉库教程](/example/qlsy.md)
 * [傻妞机器人图文教程](/example/qlaz.md)   待定
+
+企鹅群：891180955
