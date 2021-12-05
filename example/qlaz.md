@@ -7,6 +7,6 @@
 
 二、安装docker<br>
 -------
-可以按照菜鸟教程安装：点击跳转
-跳到自己博客列表：<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>
+可以按照菜鸟教程安装：[点击跳转](https://www.runoob.com/docker/centos-docker-install.html)<br>
+
 
