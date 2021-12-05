@@ -1,2 +1,3 @@
-# 自用大佬库和tg群
-小白冲鸭
+# 自用大佬库
+faker2库
+https://github.com/shufflewzc/faker2
