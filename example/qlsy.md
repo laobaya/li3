@@ -32,4 +32,36 @@
    
       m.jd.com
       
-   2、然后按`F12`，打开控制台，找到`网络`再找到`newhome.action`这一行点开，可以看到右边往下滑能看到有`cookie: `后面还有一大串，我们在这里面找到pt_key=xxx;pt_pin=xxx;这个量就是我们要的ck，  不懂看图（复制的pt_key和pt_pin中间有一个空格记得去了）
+   2、然后按`F12`，打开控制台，找到`网络`再找到`newhome.action`这一行点开，可以看到右边往下滑能看到有`cookie: `后面还有一大串，我们在这里面找到`pt_key=xxx;pt_pin=xxx;`这个量就是我们要的ck，不懂看图（复制的pt_key和pt_pin中间有一个空格记得去了）
+   
+   ![](https://github.com/z115870/li3/blob/main/img/16.png)
+   
+   3、把我们找到的`pt_key=xxx;pt_pin=xxx;`复制下来，再次打开青龙面板，点左边的`环境变量`，再点右上角的`添加变量`，名称填`JD_COOKIE`这个不能填错，
+值就填我们复制好的`pt_key=xxx;pt_pin=xxx;`（再重申：pt_key和pt_pin中间有一个空格记得去了），然后备注可以填写谁谁的账号以免忘记，填好后点击确定
+
+![](https://github.com/z115870/li3/blob/main/img/17.png)
+
+至此，拉取的脚本到了设定的时间点就会运行，就会给我们脚本做任务了。
+
+## 三、添加依赖，如果不添加依赖，很多脚本运行时会报错，不能正常使用
+
+* 打开青龙面板，找到左边依赖管理，再点右上角添加依赖就可以了,把以下依赖挨个添加就可以了
+
+NodeJs依赖：   
+
+`crypto-js`  
+`crypto -g`  
+`jsdom`  
+`upgrade`  
+`pip`  
+`tslib`  
+`png-js`  
+`date-fns`    
+`@types/node`    
+`requests`  
+`axios`  
+`js-base64`  
+`upgrade`   
+`pip`  
+`npm`  
+`md5`  
