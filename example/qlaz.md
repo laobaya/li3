@@ -8,5 +8,5 @@
 二、安装docker<br>
 -------
 可以按照菜鸟教程安装：点击跳转
-<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
+跳到自己博客列表：<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>
 
