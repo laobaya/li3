@@ -24,7 +24,8 @@
       
 ![](https://github.com/z115870/li3/blob/main/img/5.png)
 ![](https://github.com/z115870/li3/blob/main/img/6.png)
-                                                                                 
+  
+完毕！  
 ## 三、安装好docker后我们开始安装青龙面板
 
 * 拉取青龙面板镜像，把命令输入到shh回车等待完成
@@ -47,3 +48,11 @@
          whyour/qinglong:latest     
          
 ![](https://github.com/z115870/li3/blob/main/img/8.png)         
+
+完毕！
+## 四、容器启动成功后，打开浏览器输入：服务器IP:5700 ,然后开始设置青龙面板信息
+
+![](https://github.com/z115870/li3/blob/main/img/9.png)
+![](https://github.com/z115870/li3/blob/main/img/10.png)
+
+## 至此，青龙面板已经安装成功！
