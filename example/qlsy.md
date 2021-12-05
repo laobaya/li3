@@ -65,3 +65,12 @@ NodeJs依赖：
 `pip`  
 `npm`  
 `md5`  
+
+Python3依赖：
+
+`aiohttp`      
+`requests`    
+`jieba`   
+
+
+
