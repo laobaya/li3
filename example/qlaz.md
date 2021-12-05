@@ -21,6 +21,9 @@
 * 安装好docker后我们可以检查下是否安装成功 输入命令：
 
       docker version
+      
+![](https://github.com/z115870/li3/blob/main/img/5.png)
+![](https://github.com/z115870/li3/blob/main/img/6.png)
                                                                                  
 ## 三、安装好docker后我们开始安装青龙面板
 
