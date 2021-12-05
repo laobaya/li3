@@ -7,11 +7,6 @@
 
 二、安装docker<br>
 -------
-1、安装命令如下：
-
-    curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
- 也可以使用国内 daocloud 一键安装命令：
-
-    curl -sSL https://get.daocloud.io/docker | sh
-
+可以按照菜鸟教程安装：点击跳转
+<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
 
